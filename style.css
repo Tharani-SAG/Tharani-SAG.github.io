@@ -9,37 +9,4 @@
 	height: 100vh;
 }
 
-.navbar .logo{
-	width: 140px;
-	height: auto;
-	padding: 20px 100px;
-        
-}
 
-
-.wrapper .center{
-	position: absolute;
-	left: 50%;
-	top: 55%;
-	transform: translate(-50%, -50%);
-	font-family: sans-serif;
-	user-select: none;
-}
-.center h1{
-	color: White;
-	font-size: 50px;
-        margin-left:220px;
-        
-	width: 800px;
-	font-weight: bold;
-	text-align: right;
-}
-.center h2{
-	color: White;
-	font-size: 40px;
-	font-weight: bold;
-	margin-top: 10px;
-	width: 885px;
-        
-	text-align: right;
-}
